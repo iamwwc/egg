@@ -7,7 +7,6 @@ logs
 *.swp
 run
 *-run
-.idea
 .DS_Store
 .tmp
 docs/CONTRIBUTING.md
